@@ -1,0 +1,931 @@
+[
+    {
+      "text": "Hello, this is an urgent call from your bank. We detected suspicious activity on your account. Please confirm your OTP to secure your funds.",
+      "label": "spam"
+    },
+    {
+      "text": "Hi, this is Alex from customer support. We need to verify your card details to reactivate your account. Please share your CVV code now.",
+      "label": "spam"
+    },
+    {
+      "text": "Hey Mom, just wanted to check in and see how you're doing. Give me a call when you get a chance!",
+      "label": "legitimate"
+    },
+    {
+      "text": "Dear customer, your electricity bill is overdue. Please pay immediately to avoid disconnection. Visit our official website for payment details.",
+      "label": "legitimate"
+    },
+    {
+      "text": "This is Microsoft support. Your computer has been infected with a virus. Install AnyDesk so we can fix the issue remotely.",
+      "label": "spam"
+    },
+    {
+      "text": "Hi, I’m calling from a research firm conducting a short survey. Your feedback would be really helpful. It won’t take more than two minutes!",
+      "label": "legitimate"
+    },
+    {
+      "text": "Hello, your PayPal account has been compromised. To recover your money, enter the 6-digit code we just sent you.",
+      "label": "spam"
+    },
+    {
+      "text": "Hi John, the documents you requested are ready. Let me know when you’d like to pick them up.",
+      "label": "legitimate"
+    },
+    {
+      "text": "This is an emergency alert from your mobile carrier. Your SIM will be deactivated unless you verify your identity by providing your Aadhaar number now.",
+      "label": "spam"
+    },
+    {
+      "text": "Hi, Dad! Just landed safely. I’ll see you at home in an hour.",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your loan application has been approved! Please provide your bank details to receive the funds immediately.",
+      "label": "spam"
+    },
+    {
+      "text": "Grandma, I hope you're feeling better today. Call me if you need anything, okay?",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your Netflix subscription is expiring. To continue watching, please enter your credit card details here.",
+      "label": "spam"
+    },
+    {
+      "text": "Good morning! Just a reminder about our meeting tomorrow at 10 AM. Let me know if you need to reschedule.",
+      "label": "legitimate"
+    },
+    {
+      "text": "Congratulations! You've won a free iPhone. To claim your prize, provide your full name, address, and credit card number.",
+      "label": "spam"
+    },
+    {
+      "text": "Hi, can you pick up some groceries on your way home? We're out of milk and bread.",
+      "label": "legitimate"
+    },
+    {
+      "text": "We’ve detected unauthorized access to your account. Please call us immediately and provide your PIN to secure your funds.",
+      "label": "spam"
+    },
+    {
+      "text": "Hey bro, are we still meeting up for the game tonight? Let me know the plan!",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your car insurance policy has expired. Click this link to renew and avoid penalties.",
+      "label": "spam"
+    },
+    {
+      "text": "Hi, the package you ordered will be delivered tomorrow between 2-4 PM. Have a great day!",
+      "label": "legitimate"
+    },
+    {
+      "text": "URGENT: Your social security number has been compromised. Provide your details to secure your account now.",
+      "label": "spam"
+    },
+    {
+      "text": "Hey, just checking in. Haven't heard from you in a while. Hope everything’s okay!",
+      "label": "legitimate"
+    },
+    {
+      "text": "This is a final notice from the IRS. You owe back taxes. Pay now to avoid legal action.",
+      "label": "spam"
+    },
+    {
+      "text": "Doctor’s appointment confirmed for next Monday at 3 PM. Please arrive 15 minutes early.",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your Amazon Prime membership has been suspended. Call us now to reactivate it.",
+      "label": "spam"
+    },
+    {
+      "text": "Hi, can we reschedule our lunch meeting? Something urgent came up at work.",
+      "label": "legitimate"
+    },
+    {
+      "text": "You've been selected for a free vacation! Just pay a small processing fee to claim your prize.",
+      "label": "spam"
+    },
+    {
+      "text": "Hey, don’t forget our dinner reservation at 7 PM tonight. Looking forward to it!",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your PayPal account has been locked. Provide your password to unlock it.",
+      "label": "spam"
+    },
+    {
+      "text": "Can you call me back when you're free? I need to talk to you about something important.",
+      "label": "legitimate"
+    },
+    {
+      "text": "Dear customer, you’ve won a lottery of $500,000! Provide your banking details to claim the prize.",
+      "label": "spam"
+    },
+    {
+      "text": "Reminder: Your dentist appointment is scheduled for Friday at 2 PM.",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your credit card has been compromised. Call us now to verify your identity.",
+      "label": "spam"
+    },
+    {
+      "text": "Hey, can you send me that recipe you mentioned last week? I want to try it out!",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your phone number has won a $1,000 gift card. Claim it now by paying a small processing fee.",
+      "label": "spam"
+    },
+    {
+      "text": "Hello, just reminding you about our yoga class tomorrow at 6 AM. See you there!",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your bank account is at risk. Call us now and provide your PIN to protect your money.",
+      "label": "spam"
+    },
+    {
+      "text": "Hey, are you free for a call? I need some advice on my project.",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your Google account has been disabled. Click here to restore access.",
+      "label": "spam"
+    },
+    {
+      "text": "Grandpa, happy birthday! I hope you have a fantastic day. Love you!",
+      "label": "legitimate"
+    },
+    {
+      "text": "We’ve detected unusual activity in your account. Provide your login details to verify your identity.",
+      "label": "spam"
+    },
+    {
+      "text": "Hey sis, I sent you the pictures from our trip. Let me know what you think!",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your PayPal transaction has been declined. Call us and verify your identity to proceed.",
+      "label": "spam"
+    },
+    {
+      "text": "Hey, I left my keys at your place. Can you bring them when we meet?",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your Netflix account has been suspended. Click this link to reactivate it.",
+      "label": "spam"
+    },
+    {
+      "text": "Reminder: Your car service is scheduled for tomorrow at 10 AM.",
+      "label": "legitimate"
+    },
+    {
+      "text": "Your delivery is on the way and should arrive within the next 2 hours.",
+      "label": "legitimate"
+    },
+    {
+        "text": "This is Officer James from the IRS. We have a warrant for your arrest due to unpaid taxes. To stop legal action, make an immediate payment now.",
+        "label": "spam"
+      },
+      {
+        "text": "Hi, this is your bank’s fraud department. We noticed a suspicious transaction on your account. Please confirm your debit card PIN to block the transaction.",
+        "label": "spam"
+      },
+      {
+        "text": "Your mother has been in an accident. We need an urgent payment to continue medical treatment. Please transfer funds now.",
+        "label": "spam"
+      },
+      {
+        "text": "Hello! Your resume has been shortlisted for a high-paying work-from-home job. Pay a small processing fee to receive your appointment letter.",
+        "label": "spam"
+      },
+      {
+        "text": "We detected hacking attempts on your computer. Call Microsoft support now and install our security software to protect your files.",
+        "label": "spam"
+      },
+      {
+        "text": "Congratulations! You are the lucky winner of our lottery contest. Just pay a small tax fee to claim your prize.",
+        "label": "spam"
+      },
+      {
+        "text": "We are calling from Apple Support. Your iCloud account has been compromised. Provide your Apple ID password to restore access.",
+        "label": "spam"
+      },
+      {
+        "text": "Your electricity will be disconnected within 24 hours due to non-payment. Call us immediately to avoid disruption.",
+        "label": "spam"
+      },
+      {
+        "text": "This is the FBI. Your identity has been used in a major crime. To clear your name, you must make a security deposit today.",
+        "label": "spam"
+      },
+      {
+        "text": "Urgent: Your bank account will be frozen due to suspicious transactions. Provide your account number and password to verify your identity.",
+        "label": "spam"
+      },
+      {
+        "text": "You have an unclaimed inheritance from a distant relative. Please send your personal details to process your claim.",
+        "label": "spam"
+      },
+      {
+        "text": "Hi, this is an automated call from the DMV. Your driving license is being suspended. Pay a fine now to avoid legal action.",
+        "label": "spam"
+      },
+      {
+        "text": "We have detected a virus on your phone. Download our free security app immediately to protect your data.",
+        "label": "spam"
+      },
+      {
+        "text": "Hello, we are conducting a survey for a national bank. Please share your card details to participate and win rewards.",
+        "label": "spam"
+      },
+      {
+        "text": "Your Social Security Number is under investigation. Call us immediately to prevent your benefits from being suspended.",
+        "label": "spam"
+      },
+      {
+        "text": "This is your internet provider. We have noticed unusual activity on your network. Download AnyDesk so our technician can fix the issue.",
+        "label": "spam"
+      },
+      {
+        "text": "Urgent: Your insurance policy has expired. Call now to renew and avoid legal complications.",
+        "label": "spam"
+      },
+      {
+        "text": "Your investment portfolio has a special offer for high returns. Deposit a minimum of $500 today to secure your spot.",
+        "label": "spam"
+      },
+      {
+        "text": "We are from the police cyber unit. Your phone is under investigation for illegal activities. Pay a fine now to clear your record.",
+        "label": "spam"
+      },
+      {
+        "text": "Hey, your dad is in the hospital. We need an immediate deposit to continue treatment. Please send funds right away.",
+        "label": "spam"
+      },
+      {
+        "text": "Your WhatsApp account is being suspended. Provide your verification code now to prevent deactivation.",
+        "label": "spam"
+      },
+      {
+        "text": "You have won a free trip to the Bahamas! Just share your passport details to claim your ticket.",
+        "label": "spam"
+      },
+      {
+        "text": "Warning: We have found illegal activity on your internet connection. Call our security team to avoid legal consequences.",
+        "label": "spam"
+      },
+      {
+        "text": "Your bank just approved a $10,000 loan for you! Call now to complete the transaction before it expires.",
+        "label": "spam"
+      },
+      {
+        "text": "This is Amazon customer service. Someone purchased an iPhone using your account. Confirm your login details to cancel the order.",
+        "label": "spam"
+      },
+      {
+        "text": "We are conducting a verification of phone numbers. Kindly confirm your name, address, and bank details for security purposes.",
+        "label": "spam"
+      },
+      {
+        "text": "Hello, you missed a court appearance. Pay the fine now to avoid a warrant for your arrest.",
+        "label": "spam"
+      },
+      {
+        "text": "Your device has been hacked. Pay $500 in Bitcoin to recover your files.",
+        "label": "spam"
+      },
+      {
+        "text": "Your PayPal account is locked due to suspicious activity. Verify your card details to unlock it.",
+        "label": "spam"
+      },
+      {
+        "text": "Your Instagram account is flagged for suspicious behavior. Enter your login details to restore access.",
+        "label": "spam"
+      },
+      {
+        "text": "URGENT: Your online banking password is compromised. Reset it now by confirming your current credentials.",
+        "label": "spam"
+      },
+      {
+        "text": "Your SIM card is being deactivated. Call us to prevent losing your phone number.",
+        "label": "spam"
+      },
+      {
+        "text": "This is tech support. Your device is sending out malware. Install our software now to avoid losing your data.",
+        "label": "spam"
+      },
+      {
+        "text": "Hello, this is Officer Mark from Interpol. Your phone number is linked to a money laundering case. We need a small security deposit to clear your record.",
+        "label": "spam"
+      },
+      {
+        "text": "Your medical insurance has lapsed. Renew now to continue receiving benefits.",
+        "label": "spam"
+      },
+      {
+        "text": "We are calling from the federal loan department. You are eligible for a $50,000 loan. Apply now by sharing your account details.",
+        "label": "spam"
+      },
+      {
+        "text": "Dear customer, your Aadhaar card is invalid. Call us immediately to update your details and avoid deactivation.",
+        "label": "spam"
+      },
+      {
+        "text": "We have found unauthorized charges on your card. Please provide your CVV to reverse the transaction.",
+        "label": "spam"
+      },
+      {
+        "text": "Your pension account needs urgent verification. Provide your social security number now to avoid suspension.",
+        "label": "spam"
+      },
+      {
+        "text": "This is a notification from the Home Ministry. Your name is linked to a criminal case. Transfer $2,000 for legal processing.",
+        "label": "spam"
+      },
+      {
+        "text": "We have blocked an unauthorized login to your Gmail account. Click here to verify and prevent suspension.",
+        "label": "spam"
+      },
+      {
+        "text": "Your university fees are overdue. Pay now to avoid losing your admission.",
+        "label": "spam"
+      },
+      {
+        "text": "Your Uber account is being hacked. Send your verification code to secure your rides.",
+        "label": "spam"
+      },
+      {
+        "text": "We have detected unusual transactions from your phone. Download TeamViewer so we can investigate remotely.",
+        "label": "spam"
+      },
+      {
+        "text": "Your family member is in danger. Send funds now to ensure their safety.",
+        "label": "spam"
+      },
+      {
+        "text": "Hello, we are offering guaranteed cryptocurrency profits! Invest $1,000 today and double your money.",
+        "label": "spam"
+      },
+      {
+        "text": "Your Google Photos account is full. Pay a $10 fee to continue storing pictures.",
+        "label": "spam"
+      },
+      {
+        "text": "Hey, it's Sarah. Just wanted to confirm our lunch plans for tomorrow at 1 PM. Let me know if that still works!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi Mr. Thompson, this is Dr. Patel’s office calling to remind you of your appointment on Friday at 10 AM. Please call us back to confirm.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hello, this is Mark from HR. Your interview is scheduled for Monday at 2 PM. Please bring a copy of your resume.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Mom, I landed safely. I’ll call you once I check into the hotel. Love you!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Good evening, this is a courtesy call from your bank. Your new debit card has been mailed and should arrive in 3-5 business days.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, this is your pharmacy. Your prescription is ready for pickup. Visit us anytime during business hours.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey, just a reminder about our team meeting tomorrow at 10 AM. See you there!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hello, this is UPS. Your package is out for delivery and should arrive by 5 PM today.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, this is your dentist’s office. We wanted to check if you’d like to reschedule your missed appointment from last week.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi honey, I’ll be home late tonight. Don’t wait up!",
+        "label": "legitimate"
+      },
+      {
+        "text": "This is an automated message from your child’s school. There will be a PTA meeting this Wednesday at 6 PM.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey, I’m at the grocery store. Do you need me to pick up anything?",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, this is Delta Airlines. Your flight has been delayed by two hours. Please check your email for details.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Grandma, just calling to see how you're doing. Call me back when you get a chance.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hello, this is the library. Your requested book is available for pickup.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey Alex, we’re meeting at Dave’s house tonight. Hope you can make it!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Mr. Reynolds, this is Lisa from your insurance company. Please call us back to discuss your policy renewal.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, it’s John from IT. We’ll be updating your company laptop on Friday. Please back up your files before then.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Your Amazon order has shipped! You can track your package in your account.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, this is Sarah from the gym. Just checking in to see how your training sessions are going.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey, just wanted to let you know I made it home safely. Thanks for the great night!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Your car service appointment is confirmed for Tuesday at 9 AM. See you then!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hello, this is your bank. We noticed a large withdrawal from your account. If this wasn’t you, please contact us.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Dad, can you pick me up from practice at 6?",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, this is Michelle from the vet clinic. Your pet's vaccinations are due. Please call us to schedule an appointment.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey, don’t forget to submit your project report by Friday!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, this is an automated call from your utility provider. Your monthly bill is due on the 15th.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey buddy, let’s catch up this weekend! Call me when you’re free.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hello, this is an automated reminder from your dentist. You have a cleaning appointment next week.",
+        "label": "legitimate"
+      },
+      {
+        "text": "This is your doctor’s office. We received your lab results and everything looks good. Call us if you have any questions.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, it’s Jane. I sent you an email about the project. Let me know your thoughts!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hello, this is FedEx. Your package was left at your front door.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, this is a call from your college administration. The exam schedule has been updated. Check your student portal for details.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey, I just got my results. Let’s celebrate this weekend!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Your recent car service is complete. You can pick up your vehicle anytime after 4 PM.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, this is your credit card company. Your payment has been successfully processed.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey sis, call me back when you have a minute. I have some exciting news!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Your phone bill has been paid successfully. Thank you!",
+        "label": "legitimate"
+      },
+      {
+        "text": "This is your electricity provider. Due to maintenance, power will be out in your area from 2 PM to 5 PM tomorrow.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hello, your package has been delivered. Check your front door.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey, I left my jacket at your place. Can I grab it tomorrow?",
+        "label": "legitimate"
+      },
+      {
+        "text": "Your subscription to our magazine has been renewed. Enjoy your next issue!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hello, this is your landlord. The plumber will be coming by at 3 PM to fix the sink.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, I’m running late. Be there in 10 minutes!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Your online order has been processed. Expect delivery in 2-3 business days.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey, just checking in to see how your day is going!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hello, your annual membership renewal is due. Contact us if you’d like to make changes.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Mom, don’t forget your doctor’s appointment tomorrow at 3 PM!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Your bank statement for this month is available online.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hi, this is a reminder for your scheduled maintenance appointment on Friday.",
+        "label": "legitimate"
+      },
+      {
+        "text": "Hey, call me when you get this. I need your advice on something!",
+        "label": "legitimate"
+      },
+      {
+        "text": "Congratulations! You’ve won a free vacation to the Bahamas. Just pay a small processing fee to claim your prize!",
+        "label": "spam"
+      },
+      {
+        "text": "This is Officer Daniels from the IRS. You have unpaid taxes, and a warrant is out for your arrest. Call us immediately to resolve this issue.",
+        "label": "spam"
+      },
+      {
+        "text": "Your account has been compromised! Please call our security helpline and provide your password to secure it.",
+        "label": "spam"
+      },
+      {
+        "text": "Hi, I’m calling from Microsoft support. Your computer has a virus. Let me connect remotely to fix it for you.",
+        "label": "spam"
+      },
+      {
+        "text": "You’ve been pre-approved for a $100,000 loan with 0% interest! Call now to claim this exclusive offer.",
+        "label": "spam"
+      },
+      {
+        "text": "Your social security number has been suspended due to suspicious activity. Press 1 to speak with an officer.",
+        "label": "spam"
+      },
+      {
+        "text": "This is Amazon fraud prevention. We noticed unauthorized purchases on your account. Please verify your credit card details to cancel them.",
+        "label": "spam"
+      },
+      {
+        "text": "You have an unclaimed inheritance of $5 million from a distant relative. Call now to provide your bank details.",
+        "label": "spam"
+      },
+      {
+        "text": "Hey, this is an urgent message. Your car warranty is expiring soon. Renew now before it's too late!",
+        "label": "spam"
+      },
+      {
+        "text": "Your electricity bill is overdue. Pay immediately, or we will disconnect your service within 24 hours.",
+        "label": "spam"
+      },
+      {
+        "text": "Hello, this is a limited-time investment opportunity! Double your money in just 30 days with our new crypto scheme.",
+        "label": "spam"
+      },
+      {
+        "text": "You've won a free iPhone! Just cover the shipping cost and it’s yours.",
+        "label": "spam"
+      },
+      {
+        "text": "This is your bank’s fraud department. We need your PIN to verify your identity.",
+        "label": "spam"
+      },
+      {
+        "text": "URGENT: Your PayPal account has been suspended due to suspicious activity. Call now to restore access.",
+        "label": "spam"
+      },
+      {
+        "text": "Hey, I’m from the government grant department. You qualify for a $10,000 grant. Provide your bank details to receive it.",
+        "label": "spam"
+      },
+      {
+        "text": "Your Netflix subscription is about to be canceled. Update your payment details immediately to avoid interruption.",
+        "label": "spam"
+      },
+      {
+        "text": "Good news! You’ve been selected for an exclusive trading program. Earn $5,000 a week from home!",
+        "label": "spam"
+      },
+      {
+        "text": "Hello, your recent Amazon order could not be processed. Call us now to confirm your payment details.",
+        "label": "spam"
+      },
+      {
+        "text": "Hey, I’m stranded overseas and need urgent help. Can you wire me $500?",
+        "label": "spam"
+      },
+      {
+        "text": "You’re eligible for a free government iPhone! Just sign up and pay a small activation fee.",
+        "label": "spam"
+      },
+      {
+        "text": "Your phone service will be disconnected in 2 hours due to non-payment. Call us to settle your bill.",
+        "label": "spam"
+      },
+      {
+        "text": "Congratulations, you’ve been approved for a $50,000 personal loan! No credit check required!",
+        "label": "spam"
+      },
+      {
+        "text": "This is an emergency alert! Someone tried to access your bank account. Provide your details now to secure it.",
+        "label": "spam"
+      },
+      {
+        "text": "We noticed a security breach on your Google account. Click this link to reset your password immediately.",
+        "label": "spam"
+      },
+      {
+        "text": "You’ve won a shopping spree at Walmart! Claim your gift card now by providing your mailing address.",
+        "label": "spam"
+      },
+      {
+        "text": "Get rich fast! Join our online investment scheme and earn passive income within days.",
+        "label": "spam"
+      },
+      {
+        "text": "Your Apple ID has been locked. Call our support line to unlock it.",
+        "label": "spam"
+      },
+      {
+        "text": "We detected unauthorized transactions on your credit card. Call now to dispute these charges.",
+        "label": "spam"
+      },
+      {
+        "text": "This is Officer Smith from the FBI. You are under investigation for money laundering. Call us now to avoid legal action.",
+        "label": "spam"
+      },
+      {
+        "text": "Your medical insurance is about to expire. Renew now to avoid a coverage gap.",
+        "label": "spam"
+      },
+      {
+        "text": "Good news! Your loan has been pre-approved. Just provide your SSN to finalize it.",
+        "label": "spam"
+      },
+      {
+        "text": "Hello, this is a special offer from your cable provider! Pay for one year, and get two years free!",
+        "label": "spam"
+      },
+      {
+        "text": "You’ve won a free car! Just pay the registration fee and it's yours.",
+        "label": "spam"
+      },
+      {
+        "text": "We’re offering you a job that pays $5,000 per week! No experience required!",
+        "label": "spam"
+      },
+      {
+        "text": "You’ve been selected for a free home security upgrade. Call now to schedule installation.",
+        "label": "spam"
+      },
+      {
+        "text": "We noticed a login attempt from Russia on your Facebook account. Click here to secure your profile.",
+        "label": "spam"
+      },
+      {
+        "text": "Earn money while you sleep! Sign up for our passive income program now!",
+        "label": "spam"
+      },
+      {
+        "text": "URGENT: Your computer has been infected with malware. Contact us immediately for a fix!",
+        "label": "spam"
+      },
+      {
+        "text": "Congratulations! You’ve been randomly chosen to receive a $500 gas card. Call now to claim it.",
+        "label": "spam"
+      },
+      {
+        "text": "Hi, I’m from the local police department. You have an unpaid ticket. Pay now to avoid court fees.",
+        "label": "spam"
+      },
+      {
+        "text": "Your email account will be permanently deleted in 24 hours if you do not confirm your login details.",
+        "label": "spam"
+      },
+      {
+        "text": "You’re missing out! Get a lifetime Netflix subscription for just $1!",
+        "label": "spam"
+      },
+      {
+        "text": "This is your final warning. Pay your overdue utility bill now, or your service will be disconnected.",
+        "label": "spam"
+      },
+      {
+        "text": "Your flight booking has been canceled. Call now to reinstate your reservation.",
+        "label": "spam"
+      },
+      {
+        "text": "We are giving away free Amazon gift cards! Sign up now to receive yours.",
+        "label": "spam"
+      },
+      {
+        "text": "Hey, I’m a prince from Nigeria, and I need your help to transfer $10 million. You’ll get a 10% commission!",
+        "label": "spam"
+      },
+      {
+        "text": "Claim your free AirPods now! Just complete a quick survey.",
+        "label": "spam"
+      },
+      {
+        "text": "Your account has been hacked. Please reset your password immediately using the link we sent you.",
+        "label": "spam"
+      },
+      {
+        "text": "This is a once-in-a-lifetime opportunity! Invest now and triple your money in just one month!",
+        "label": "spam"
+      },
+      {
+        "text": "नमस्ते! आपको 1 लाख रुपये का इनाम मिला है! कृपया अपनी बैंक डिटेल साझा करें ताकि हम इसे ट्रांसफर कर सकें।",
+        "label": "spam"
+      },
+      {
+        "text": "नमस्ते, यह आपका बैंक है। हम आपके खाते में संदिग्ध गतिविधि देख रहे हैं। कृपया कस्टमर केयर से संपर्क करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "बधाई हो! आपने हमारी लॉटरी जीत ली है! पुरस्कार प्राप्त करने के लिए 499 रुपये का भुगतान करें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपकी EMI की अगली किश्त 5 तारीख को कटेगी। कृपया सुनिश्चित करें कि आपके खाते में पर्याप्त शेष राशि हो।",
+        "label": "legitimate"
+      },
+      {
+        "text": "आपका बैंक खाता हैक हो गया है! तुरंत हमें कॉल करें और अपने क्रेडेंशियल्स साझा करें।",
+        "label": "spam"
+      },
+      {
+        "text": "नमस्ते, आपकी गैस सब्सिडी आपके खाते में जमा कर दी गई है। कृपया बैंक से पुष्टि करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "आपके आधार कार्ड में गड़बड़ी पाई गई है। उसे ठीक करने के लिए कृपया अपना ओटीपी साझा करें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपका मोबाइल रिचार्ज सफलतापूर्वक हो गया है। कृपया पुष्टि करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "यह IRCTC से कॉल है। आपकी ट्रेन टिकट रद्द कर दी गई है। पैसे वापस पाने के लिए हमें अपना UPI PIN बताएं।",
+        "label": "spam"
+      },
+      {
+        "text": "आपकी ट्रेन यात्रा की जानकारी: ट्रेन नंबर 12345, प्रस्थान समय 10:30 AM, स्टेशन - नई दिल्ली।",
+        "label": "legitimate"
+      },
+      {
+        "text": "नमस्ते! आपने हमारे निवेश प्लान के लिए क्वालिफाई किया है। सिर्फ ₹5000 इन्वेस्ट करें और 10 गुना पैसा पाएं!",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपकी बिजली बिल की अंतिम तिथि 10 तारीख है। कृपया समय पर भुगतान करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "हम आपकी फेसबुक ID को ब्लॉक करने वाले हैं। इसे सुरक्षित करने के लिए अभी लॉगिन डिटेल्स भेजें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपके खाते में ₹5000 का क्रेडिट हुआ है। यदि यह लेनदेन आपने नहीं किया है, तो तुरंत बैंक से संपर्क करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "आपका क्रेडिट कार्ड बंद कर दिया गया है। इसे फिर से शुरू करने के लिए हमें अपना OTP बताएं।",
+        "label": "spam"
+      },
+      {
+        "text": "आपकी मेडिकल रिपोर्ट तैयार है। रिपोर्ट लेने के लिए अस्पताल से संपर्क करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "नमस्ते, हम Microsoft सपोर्ट से बोल रहे हैं। आपके कंप्यूटर में वायरस मिला है। इसे ठीक करने के लिए रिमोट एक्सेस दें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय छात्र, आपकी परीक्षा की तिथि 15 तारीख को है। कृपया एडमिट कार्ड डाउनलोड करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "आपका फोन नंबर एक लकी ड्रॉ में चयनित हुआ है। पुरस्कार प्राप्त करने के लिए अभी हमसे संपर्क करें!",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपकी इंटरनेट सेवा 24 घंटे में नवीनीकरण की आवश्यकता है। कृपया जल्द भुगतान करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "हम सरकार से बोल रहे हैं। आपको ₹1 लाख की सब्सिडी मिली है। कृपया बैंक डिटेल्स साझा करें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपके जीवन बीमा पॉलिसी का नवीनीकरण होना बाकी है। कृपया जल्द से जल्द संपर्क करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "नमस्ते, आपका व्हाट्सएप अकाउंट बंद किया जा रहा है। इसे चालू रखने के लिए हमें आपका ओटीपी भेजें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपके बैंक खाते से ₹2000 का डेबिट हुआ है। यदि यह आपने नहीं किया, तो तुरंत बैंक से संपर्क करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "बधाई हो! आपके नंबर ने iPhone 15 जीत लिया है। इसे पाने के लिए सिर्फ ₹999 का भुगतान करें!",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपकी ट्रेन टिकट पुष्टि हो गई है। यात्रा की जानकारी आपके SMS में भेजी गई है।",
+        "label": "legitimate"
+      },
+      {
+        "text": "आपका ATM कार्ड ब्लॉक कर दिया गया है। इसे फिर से चालू करने के लिए अपना पिन बताएं।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपका मोबाइल नंबर केवाईसी अपडेट के लिए योग्य है। अपडेट करने के लिए कृपया अपने सर्विस प्रोवाइडर से संपर्क करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "हमारा निवेश प्लान जॉइन करें और 1 महीने में ₹1 लाख कमाएं! सीमित ऑफर, अभी संपर्क करें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपकी डेबिट कार्ड वैधता समाप्त होने वाली है। कृपया नया कार्ड मंगाने के लिए बैंक से संपर्क करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "आपका पेटीएम खाता बंद हो गया है! इसे फिर से शुरू करने के लिए हमें कॉल करें और अपनी डिटेल्स साझा करें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपकी उड़ान का समय बदल दिया गया है। नई जानकारी के लिए कृपया एयरलाइन से संपर्क करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "आपके घर के बिजली कनेक्शन को काटा जा रहा है। इसे रोकने के लिए तुरंत भुगतान करें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपके वाहन बीमा का नवीनीकरण होना बाकी है। कृपया समय पर भुगतान करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "आपका बैंक अकाउंट सस्पेंड हो गया है! तुरंत इसे चालू करने के लिए हमें संपर्क करें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपका नया क्रेडिट कार्ड भेजा जा चुका है। डिलीवरी ट्रैक करने के लिए बैंक ऐप पर लॉगिन करें।",
+        "label": "legitimate"
+      },
+      {
+        "text": "आपका फोन नंबर लकी ड्रॉ में जीत गया है! पुरस्कार पाने के लिए केवल ₹499 भुगतान करें।",
+        "label": "spam"
+      },
+      {
+        "text": "प्रिय ग्राहक, आपका अस्पताल में अपॉइंटमेंट कल सुबह 10 बजे निर्धारित है। कृपया समय पर पहुंचे।",
+        "label": "legitimate"
+      }
+  ]
+  
